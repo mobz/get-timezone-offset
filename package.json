@@ -1,7 +1,7 @@
 {
-  "name": "get-time-zone",
-  "version": "1.0.0",
-  "description": "Tiny library to get timezone for a place and time via the Intl object",
+  "name": "getTimezoneOffset",
+  "version": "1.0.1",
+  "description": "Tiny library to get timezone offsets for a place and time",
   "main": "getTimeZone.js",
   "scripts": {
     "test:browser": "browserify test.js > test.browser.js",
