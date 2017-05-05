@@ -1,0 +1,23 @@
+{
+  "name": "get-time-zone",
+  "version": "1.0.0",
+  "description": "Tiny library to get timezone for a place and time via the Intl object",
+  "main": "getTimeZone.js",
+  "scripts": {
+    "test:browser": "browserify test.js > test.browser.js",
+    "test": "node test.js"
+  },
+  "engines": {
+    "node" : ">=4.0.0"
+  },
+  "author": "mobz",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1",
+    "babelify": "^7.3.0",
+    "browserify": "^14.3.0",
+    "http-server": "^0.9.0",
+    "tape": "^4.6.3",
+    "uglify-js": "^2.8.22"
+  }
+}
