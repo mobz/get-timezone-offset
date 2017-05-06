@@ -1,8 +1,8 @@
 {
-  "name": "getTimezoneOffset",
-  "version": "1.0.1",
+  "name": "get-timezone-offset",
+  "version": "1.0.3",
   "description": "Tiny library to get timezone offsets for a place and time",
-  "main": "getTimeZone.js",
+  "main": "getTimezoneOffset.js",
   "scripts": {
     "test:browser": "browserify test.js > test.browser.js",
     "test": "node test.js"
