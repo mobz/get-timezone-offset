@@ -3,7 +3,7 @@ var us_re = /(\d+).(\d+).(\d+),?\s+(\d+).(\d+)(.(\d+))?/;
 
 var format_options = {
 	timeZone: "UTC",
-	hour12: false,
+	hourCycle: 'h23',
 	year: 'numeric',
 	month: 'numeric',
 	day: 'numeric',
