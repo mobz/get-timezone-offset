@@ -1,6 +1,6 @@
 {
   "name": "get-timezone-offset",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Tiny library to get timezone offsets for a place and time",
   "main": "getTimezoneOffset.js",
   "scripts": {
